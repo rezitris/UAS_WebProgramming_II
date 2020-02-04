@@ -12,3 +12,5 @@ Username : Rezi Tristanto<br>
 Password : 12345
 
 Database : 17111118_rezitristanto_uas.sql --> di Folder Database
+
+Link Hosting : https://rezitristanto.000webhostapp.com/
